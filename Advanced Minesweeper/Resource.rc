@@ -1,0 +1,13 @@
+// Microsoft Visual C++ generated resource script.
+//
+
+
+
+
+
+aaaa ICON "small.ico"
+
+#include "wx/msw/wx.rc"
+
+
+
