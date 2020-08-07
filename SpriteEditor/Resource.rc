@@ -1,0 +1,7 @@
+// Microsoft Visual C++ generated resource script.
+//
+
+aaaa ICON "SpriteEditor.ico"
+
+#include "wx/msw/wx.rc"
+
